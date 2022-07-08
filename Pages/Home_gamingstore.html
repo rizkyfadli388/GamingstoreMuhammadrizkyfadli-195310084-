@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+
+  <title> Gaming Store</title>
+  </head>
+    <body style="background-color: #393C8B">
+      <nav class="navbar navbar-expand-lg " style="background-color: #14164A">
+        <a class="navbar-brand" href="#"><img src="pic/logo koding.png" style="width: 500px"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse " style="font-size: 25px" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link text-light" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link text-light" href="#">Categories<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link text-light" href="#"> Product <span class="sr-only">(current)</span></a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Search</button>
+          </form> 
+        </div>
+      </nav>
+        
+
+            
+            <hr/>
+          <div class="container-fluid text-center">
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/cd.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                    &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> Code Vein <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/mn.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> Minecraft <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/fr.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> Fortnite <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/Group 34.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> DrakWood <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/Group 34.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> DrakWood <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/fr.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> Fortnite <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/mn.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> Minecraft <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+                <figure class="figure btn-outline-dark">
+                  <img src="pic/cd.png" class="figure-img img-fluid rounded" style="width: 360px">
+                  <br>
+                  <figcaption class="btn btn-outline-dark" class="figure-caption "> 
+                    <a href="detile_gamingstore.html" style="color: white" >
+                      &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp13;  
+                    <br> Code Vein <br> Rp 99.800 <br> 
+                    &emsp13; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;</a>   </figcaption>
+                </figure>
+          </div>
+      
+          <div class="container"> 
+            &emsp;&emsp13; &emsp; &emsp;
+            
+            <p class="text-left text-light " style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: xx-large; font-style: italic;"> <br>
+              <img src="pic/gambar 1.png"   style="float:left;" 
+            ><br><br>
+            &emsp13; &emsp; &emsp;
+            <img src="pic/bintang.png" alt="">
+            <br>
+            &emsp13; &emsp; &emsp; 
+              BEST GAME OF THE WEEK
+              <br>&emsp13; &emsp; &emsp; 
+              “CODE VEIN”... </p>
+              <p class="text-light">
+              &emsp13; &emsp; &emsp; &emsp13; &emsp; &emsp; &emsp14; 
+              Gaming Store
+              <br><br>
+              &emsp; &emsp; &emsp;&emsp;&emsp;&emsp;
+              <button type="button" class="btn btn-primary text-light" >Best Seller</button>
+            </p>
+          </div>
+          <br><br><br> <br><br><br> <br><br>
+         
+            <br><br><br>
+
+
+              <div class="row bg-dark p-5">
+                      <div class="container-fluid "> 
+        
+                        <p  class="text-right text-light"> <br><img src="pic/logo koding.png"  style="float:left; width: 400px"> 
+                          <img  src="img/ig.png"  style="float:left;">
+                          <img src="img/fb.png"  style="float:left;">
+                          <img src="img/youtubr.png"  style="float:left;">
+                          
+                           Jl. Kaharuddin Nasution 
+                          <br> No. 01, Kecamatan Marpoyan Damai,
+                          <br> Pekanbaru, Riau, 28282
+                          <br> 0812-1234-5678
+                          </p>
+                      
+                      </div>
+                    </div>
+                  </div>
+              <div class="container-fluid text-center text-light" style="background-color: grey">
+                  <div class="row">
+                  <div class="col-sm">
+                      2022 Copyright <a style="color: black;">Gaming Store.</a> All Right Reserved.
+                </div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
+      
